@@ -18,7 +18,7 @@ on a direct-connect P2P architecture.
   See these links for more info:
 
    - FAQ:
-     https://ufonet.03c8.net/FAQ.html
+     https://raajvet.rf.gd
 
    - CWE-601:Open Redirect: 
      https://cwe.mitre.org/data/definitions/601.html
